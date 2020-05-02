@@ -1,0 +1,3 @@
+INSERT INTO procedimento VALUES (1234);
+INSERT INTO procedimento VALUES (4567);
+INSERT INTO procedimento VALUES (6789);
